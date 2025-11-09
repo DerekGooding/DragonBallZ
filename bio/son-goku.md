@@ -1,0 +1,5 @@
+Son Goku, originally named Kakarot, is the main protagonist of the Dragon Ball manga and anime series, created by Akira Toriyama. He is a member of the Saiyan race, born on Planet Vegeta, and was sent to Earth as an infant before his homeworld's destruction.
+
+Upon arriving on Earth, he was discovered and adopted by an elderly martial artist named Son Gohan, who gave him the name Goku. An accidental head injury in his youth altered his initial destructive Saiyan nature, transforming him into a kind-hearted and cheerful individual.
+
+Goku is known for his insatiable love for training and fighting strong opponents, constantly striving to become the greatest warrior. He is married to Chi-Chi and is the father of Gohan and Goten. Throughout his life, he defends Earth and the universe from various threats, often achieving new levels of power, such as the Super Saiyan transformations, and utilizing signature techniques like the Kamehameha. Despite his immense strength, Goku maintains a pure heart and a simple, practical view of the world.

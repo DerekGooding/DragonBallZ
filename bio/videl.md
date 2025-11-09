@@ -1,0 +1,5 @@
+Videl is a fictional character from the Dragon Ball media franchise, created by Akira Toriyama. She is the daughter of Mr. Satan (also known as Hercule in some English versions), the world-renowned martial artist who falsely took credit for defeating Cell.
+
+Initially appearing as a headstrong, tomboyish vigilante who assists the police in Satan City, Videl is adept in martial arts, having grown up learning them to emulate her father. Despite her father's fame, she is a self-sufficient character with a distinct personality, initially viewing Gohan, her classmate, as weak.
+
+Videl eventually discovers Gohan's secret identity as the Great Saiyaman and blackmails him into teaching her how to use ki and fly. Through their interactions, she begins to understand and appreciate Gohan, and they eventually fall in love, marry, and have a daughter named Pan. Videl plays a significant role in the Dragon Ball Z storyline, particularly during the arc where Gohan is the lead character. Her name is an anagram of the English word "devil".

@@ -1,0 +1,5 @@
+King Kai, also known as North Kai, is a pivotal character in Dragon Ball Z, serving as Goku's first martial arts teacher and mentor in the afterlife. He is the ruler of the North Area of Universe 7 and resides on a small planet at the end of Snake Way, which possesses a gravitational pull five times stronger than Earth's.
+
+Known for his eccentric and comical teaching methods, King Kai trained Goku in powerful techniques such as the Kaio-ken and the Spirit Bomb, which became fundamental to Goku's fighting style. His training regimen included unusual tasks like catching his pet monkey, Bubbles, and hitting his grasshopper companion, Gregory, with a hammer.
+
+Despite his godly status, King Kai is characterized by his short stature, T-shaped sunglasses, and a strong, often self-deprecating, sense of humor. Even after his death during the Cell Games, he continued to appear in the series, offering guidance and comedic relief to the Z-Fighters.

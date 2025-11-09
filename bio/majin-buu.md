@@ -1,0 +1,7 @@
+Majin Buu, also known as Majin Boo, is a prominent fictional character and the final antagonist in the Dragon Ball manga and Dragon Ball Z anime series. He made his debut in Weekly Shōnen Jump on March 1, 1994.
+
+Majin Buu's origins have been subject to various interpretations throughout the series. Initially, he was presented as a creation of the evil warlock Bibidi, later unleashed by Bibidi's son, Babidi. However, Dragon Ball creator Akira Toriyama later clarified that Buu is an ancient entity who has existed since time immemorial, with Bibidi merely knowing how to summon him from his long hibernations. A more recent revelation in Dragon Ball Daima suggests he was created by a witch named Marba at Bibidi's behest.
+
+Visually, Majin Buu is distinctive with his bubblegum-pink, rotund form, often seen wearing gloves, boots, a vest, and a cape. His body is highly malleable and rubbery, granting him incredible regenerative abilities, allowing him to recover instantly from severe injuries and even from being vaporized. His unique powers include shape-shifting, healing others, absorbing other beings to gain their strength and intellect, and transmuting people into food, such as candy, using his antenna.
+
+Despite his immense destructive capabilities, Majin Buu often displays a naive and childlike personality, finding joy in combat and sometimes failing to grasp the gravity of his actions. He undergoes several transformations, each with distinct personalities, including the innocent "Fat Buu," the more ruthless "Super Buu," and the purely evil "Kid Buu."

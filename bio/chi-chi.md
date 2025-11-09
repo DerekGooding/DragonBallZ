@@ -1,0 +1,3 @@
+Chi-Chi is a prominent character in the Dragon Ball franchise, best known as the wife of Goku and the mother of Gohan and Goten. She is the daughter of the Ox-King and was introduced as a strong-willed, skilled martial artist in her youth.
+
+As an adult, Chi-Chi's primary role revolves around her family, particularly her sons' education. She is often portrayed as an overprotective mother, sometimes referred to as a "Kyōiku mama," who insists that her children, especially Gohan, prioritize academics over fighting. Despite her fiery personality and occasional nagging, she deeply loves her husband and children. Chi-Chi's character has been described as one of the most prominent female characters in the franchise, consistently featured in merchandise and cosplay.

@@ -1,0 +1,3 @@
+Raditz is the older brother of Goku (Kakarot) and one of the few surviving Saiyans after the destruction of Planet Vegeta. He served in Frieza's army alongside Vegeta and Nappa, conquering planets.
+
+Raditz arrived on Earth to find Goku, hoping to recruit him to join their planet-conquering efforts. Upon discovering Goku had lost his Saiyan memories and violent tendencies, Raditz kidnapped Goku's son, Gohan, to force Goku's compliance. This led to a battle where Goku, allied with his former enemy Piccolo, confronted Raditz. Raditz was ultimately defeated and killed by Piccolo's Special Beam Cannon, an attack that also resulted in Goku's death.

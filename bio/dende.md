@@ -1,0 +1,3 @@
+Dende is a young Namekian from the planet Namek, and one of Grand Elder Guru's many offspring. He first appears in Dragon Ball Z when he is rescued by Gohan and Krillin from Frieza's forces. Dende possesses the unique ability to heal others, which he uses to aid the Z-Fighters during their battle against Frieza on Namek. He also helps them by translating the Namekian language to summon the dragon Porunga.
+
+Later in the series, after Kami fuses with Piccolo, Dende is chosen to become the new Guardian of Earth. In this role, he recreates the Earth's Dragon Balls, enhancing them to grant two wishes instead of one. Despite not being a fighter, Dende is intelligent, valiant, and consistently willing to help his allies in times of need.

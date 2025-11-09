@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dragon Ball Z Characters</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+        }
+        .character-card {
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            text-align: center;
+        }
+        .character-card img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 4px;
+            margin-bottom: 10px;
+        }
+        .character-card h2 {
+            color: #e44d26;
+            margin-top: 0;
+        }
+        .character-card p {
+            font-size: 0.9em;
+            line-height: 1.5;
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+    <h1>Dragon Ball Z Characters</h1>
+    <div class="container">
+        {% for character in characters %}
+        <div class="character-card">
+            <h2>{{ character.name }}</h2>
+            <img src="{{ url_for('serve_image', filename=character.image.split('/')[-1]) }}" alt="{{ character.name }}">
+            <p>{{ character.bio }}</p>
+        </div>
+        {% endfor %}
+    </div>
+</body>
+</html>

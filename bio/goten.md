@@ -1,0 +1,5 @@
+Son Goten is a fictional character from the Dragon Ball franchise, known as the youngest son of Goku and Chi-Chi, making him a Saiyan and Earthling hybrid. He is also the younger brother of Gohan and best friends with Trunks.
+
+Goten was born nine months after the Cell Games, meaning he didn't meet his father, Goku, until he was seven years old. Despite his young age, Goten displayed exceptional power, becoming the youngest Super Saiyan ever at just seven years old, a feat he achieved seemingly by accident during training with his mother, Chi-Chi.
+
+He is introduced during the Majin Buu Saga, where he participates in the World Martial Arts Tournament alongside Trunks. The two are inseparable and are well-known for their fusion technique, Gotenks, which allowed them to achieve Super Saiyan 3. While Goten possesses immense potential, he later shows less interest in training and fighting as he grows older, a contrast to other Saiyan characters.

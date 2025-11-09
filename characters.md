@@ -1,0 +1,30 @@
+- Son Goku
+- Vegeta
+- Son Gohan
+- Piccolo
+- Krillin
+- Bulma
+- Future Trunks
+- Frieza
+- Cell
+- Majin Buu
+- Android 18
+- Android 17
+- Android 16
+- Yamcha
+- Tien Shinhan
+- Chiaotzu
+- Master Roshi
+- Chi-Chi
+- Mr. Satan
+- Dende
+- Kami
+- King Kai
+- Supreme Kai
+- Raditz
+- Nappa
+- Captain Ginyu
+- Dr. Gero
+- Bardock
+- Videl
+- Goten

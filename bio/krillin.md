@@ -1,0 +1,5 @@
+Krillin is a prominent fictional character in the Dragon Ball manga and anime series, created by Akira Toriyama. He is introduced as Goku's fellow martial arts student under Master Roshi, initially as a rival, but quickly becoming Goku's closest ally and best friend.
+
+Known for his bald head with six dots and lack of a nose, Krillin is considered the strongest human on Earth, despite often being outmatched by the series' major villains. He is characterized by his courage, loyalty, and good-natured personality, often providing comic relief during tense moments.
+
+Throughout the series, Krillin participates in many battles alongside Goku and the other Z Fighters. He eventually settles down, marrying Android 18 and having a daughter named Marron, and even takes on a job as a police officer. While he largely retires from fighting in the latter half of Dragon Ball Z, he returns to action in Dragon Ball Super.

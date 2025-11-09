@@ -1,0 +1,3 @@
+Android 16 is a fully mechanical android created by Dr. Gero with the primary directive to eliminate Goku. Despite his destructive programming, he possesses a gentle and kind-hearted nature, showing a deep affection for animals and nature.
+
+He was activated by Android 17 and joined Android 17 and 18 in their search for Goku. Android 16 proved to be a formidable fighter, particularly in his efforts to protect Android 17 and 18 from being absorbed by Cell. He was later repaired by Bulma and Dr. Briefs, though his self-destruct device was removed during the process. His ultimate sacrifice, attempting to destroy Cell and inspiring Gohan, was a pivotal moment in the Cell Games. Android 16 was modeled after Dr. Gero's deceased son, Gebo.

@@ -1,0 +1,7 @@
+Cell is a major antagonist in the Dragon Ball Z series, an artificial life form (or "Bio-Android") created by Doctor Gero's supercomputer. His design was the ultimate solution to avenge the Red Ribbon Army's defeat by killing Goku and conquering Earth.
+
+Cell was engineered from the cell samples of the universe's strongest warriors, including Goku, Vegeta, Piccolo, Frieza, and King Cold. This genetic makeup grants him the superhuman abilities of these characters, such as super strength, speed, agility, regeneration (from Piccolo's Namekian DNA), and energy projection like the Kamehameha.
+
+The Cell that appears in the main timeline is from the future, traveling back in time to achieve his goal of becoming the "perfect being." To do this, he needed to absorb Androids 17 and 18. He evolves through several forms: Imperfect Cell, Semi-Perfect Cell (after absorbing Android 17), and finally Perfect Cell (after absorbing both Android 17 and 18). Each transformation significantly boosts his physical strength, durability, and speed.
+
+Cell's ultimate defeat comes at the hands of Gohan, who, with assistance from Vegeta, unleashes a powerful Kamehameha that destroys Cell's nucleus, killing him once and for all.

@@ -1,0 +1,5 @@
+Vegeta, also known as Prince Vegeta IV, is a fictional character from the Dragon Ball franchise, created by Akira Toriyama. He is the prince of an elite extraterrestrial warrior race called the Saiyans.
+
+Initially introduced as a major antagonist in Dragon Ball Z, Vegeta is characterized by his bluntness, regal demeanor, hard work, and immense Saiyan pride. He was born on Planet Vegeta in the year 732 and was considered an elite warrior from birth, possessing a power level that surpassed his peers.
+
+Vegeta's planet was destroyed by Frieza, who then took Vegeta into his service. He initially sought the wish-granting Dragon Balls for immortality. Throughout the series, Vegeta's role evolves from a ruthless villain to an anti-hero and eventually one of the main protagonists, though he maintains a fierce rivalry with Goku. He later settles on Earth, marries Bulma, and becomes the father of Trunks and Bulla. Vegeta's character development, transitioning from a merciless villain to a protector of Earth and his family, is highly praised within the series.

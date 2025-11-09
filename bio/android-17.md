@@ -1,0 +1,5 @@
+Android 17, originally named Lapis, is a character from the Dragon Ball series. He and his twin sister, Lazuli (Android 18), were kidnapped and converted into powerful cyborgs by Dr. Gero as part of his plan to destroy Goku.
+
+Initially, Android 17 was a rebellious and indifferent antagonist, known for his cool demeanor and immense strength. He quickly asserted his independence by killing Dr. Gero shortly after being activated.
+
+Over time, his character evolved significantly. In Dragon Ball Super, he reappears as a park ranger on a remote island, dedicated to protecting wildlife. He is married with a biological child and two adopted children. Android 17 later plays a crucial heroic role in the Tournament of Power, showcasing his growth into a selfless protector and ultimately winning the tournament for Universe 7.

@@ -1,0 +1,5 @@
+Bulma is a fictional character from the Dragon Ball franchise, created by Akira Toriyama, first appearing in the manga in 1984. She is introduced as a brilliant scientist and inventor, and the daughter of Dr. Brief, the founder of Capsule Corporation.
+
+Bulma's intelligence is a key aspect of her character, leading her to invent crucial devices such as the Dragon Radar, which detects the energy signals of the Dragon Balls. She initially encounters Goku while searching for the Dragon Balls to wish for a perfect boyfriend, and they embark on many adventures together.
+
+Throughout the series, Bulma's inventions play a vital role, including creating spaceships for intergalactic travel and the time machine used by her future son, Trunks. She eventually marries Vegeta and has two children, Trunks and Bra. Despite not being a fighter, her resourcefulness, wit, and technological contributions are indispensable to the Z Fighters.

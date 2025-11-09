@@ -1,0 +1,3 @@
+Mr. Satan, whose real name is Mark, is a flamboyant martial artist and the reigning World Martial Arts Champion in the Dragon Ball universe. He is widely celebrated by humanity as a hero, taking credit for defeating powerful villains like Cell, despite his actual cowardly and clumsy nature.
+
+He is the father of Videl, who later marries Gohan (Goku's son), making him Pan's grandfather. Despite his exaggerated persona, Mr. Satan plays an unexpected and crucial role in the Majin Buu Saga, where he befriends the good Majin Buu and helps to save the world. He continues to appear as a supporting character in Dragon Ball GT and Dragon Ball Super.

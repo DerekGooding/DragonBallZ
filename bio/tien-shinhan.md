@@ -1,0 +1,5 @@
+Tien Shinhan, known as Tenshinhan in Japanese media, is a fictional character from Akira Toriyama's Dragon Ball franchise. He first appeared in chapter #113 of the manga on February 24, 1987, entering the World Martial Arts Tournament with the intention of defeating Son Goku and his friends.
+
+Initially portrayed as a cold-hearted and ruthless martial artist, Tien was a star pupil of Master Roshi's rival, Tsuru-Sen'nin (Master Shen). He later undergoes a significant character arc, transforming into an honorable warrior who fights alongside Goku and the Z-Fighters against major threats to Earth.
+
+Tien is recognized for his disciplined and reclusive nature, his distinctive third eye, and his mastery of powerful ki-based techniques like the Solar Flare, Dodon Ray, and the devastating Tri-Beam. He was also one of the first characters in the series to demonstrate flight using Bukū-jutsu. His lifelong best friend and constant companion is Chiaotzu.

@@ -1,0 +1,7 @@
+Shin, also known as the Supreme Kai, is the divine overseer of Universe 7 in Dragon Ball Z, responsible for maintaining cosmic order and fostering life. He is a Core Person, a race of godly beings born on the Sacred World of the Kai.
+
+Introduced during the Majin Buu Saga, Shin plays a crucial role in warning the Z-Fighters about the impending threat of Majin Buu and guiding them in their efforts to defeat him. He is often accompanied by his loyal attendant, Kibito.
+
+As a Supreme Kai, Shin possesses a range of unique abilities, including Godly Ki, which makes his presence undetectable to those without the ability to sense it. His powers include telekinesis, telepathy, healing, and Kai Kai (an advanced form of Instant Transmission that allows him to teleport anywhere in the universe). While powerful compared to ordinary beings, his strength is notably less than that of the strongest Z-Fighters, particularly by the time of the Buu Saga.
+
+Shin is the sole surviving Supreme Kai of Universe 7 after a past battle with Majin Buu resulted in the deaths of the others. He also shares a life link with Universe 7's God of Destruction, Beerus, meaning the death of one would result in the death of the other.

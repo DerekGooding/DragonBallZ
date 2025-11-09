@@ -1,0 +1,5 @@
+Dr. Gero was a brilliant but unhinged scientist and a lead member of the Red Ribbon Army, an evil military force that Goku defeated in the original Dragon Ball series. After the Red Ribbon Army's downfall, Gero went into hiding in a secret laboratory, plotting his revenge against Goku.
+
+For years, he used intelligent tracking devices to study Goku and the Z Fighters, gathering data to create the ultimate fighting machines. He eventually transformed himself into an android, becoming Android 20, and created a series of powerful androids, including Android 16, Android 17, Android 18, and ultimately, Cell. Android 16 was modeled after Gero's deceased son, a former Red Ribbon soldier. Androids 17 and 18 were originally delinquents whom Gero kidnapped and restructured.
+
+Dr. Gero's creations, particularly Androids 17 and 18, eventually rebelled against him, with Android 17 ultimately destroying him. Despite his death, his legacy continued to impact the Dragon Ball universe through his android creations.

@@ -1,0 +1,5 @@
+Future Trunks is a fictional character from the Dragon Ball manga and anime series, created by Akira Toriyama. He is the half-Saiyan, half-human son of Vegeta and Bulma, hailing from an alternate, apocalyptic future.
+
+In his timeline, Goku succumbs to a heart virus, and the Z-Fighters are subsequently killed by Androids 17 and 18, leaving Earth in ruins. Future Trunks is trained by Future Gohan, who eventually dies fighting the Androids, prompting Trunks to achieve the Super Saiyan transformation.
+
+To prevent his bleak future, Trunks travels back in time to warn Goku and his allies about the Android threat and provide a cure for Goku's heart virus. He is characterized by his serious, cautious, and well-mannered demeanor, a stark contrast to his present-timeline counterpart, largely due to the harsh reality he grew up in. Future Trunks is also known for wielding a sword and his ability to transform into a Super Saiyan. His actions in the past inadvertently create a branched timeline, leading to new events and challenges.

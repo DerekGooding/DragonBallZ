@@ -1,0 +1,5 @@
+Nappa was an elite Saiyan warrior and a general in the Saiyan Army, serving as Prince Vegeta's partner and bodyguard. He was one of the few Saiyan survivors after the destruction of Planet Vegeta.
+
+Nappa accompanied Vegeta to Earth to use the Dragon Balls to wish for immortality after hearing about them from Raditz. During his time on Earth, Nappa proved to be a formidable opponent, easily overpowering many of the Z-Fighters. He was responsible for the deaths of Chiaotzu (who self-destructed in an attempt to kill him), Tien Shinhan (who used all his energy against him), and Piccolo (who sacrificed himself to save Gohan).
+
+Nappa was eventually defeated by Goku, who had returned from his training. After his defeat, Vegeta, angered by Nappa's weakness, killed him with an energy blast. Nappa made a brief appearance in Dragon Ball GT, where he was again killed by Vegeta.

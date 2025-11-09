@@ -1,0 +1,5 @@
+Android 18, whose human name was Lazuli, is a prominent character in the Dragon Ball manga and anime series, including Dragon Ball Z, GT, and Super. She and her twin brother, Android 17, were originally humans who were kidnapped and transformed into powerful cyborgs by the evil scientist Dr. Gero.
+
+Dr. Gero's primary goal in creating Android 18 was to exact revenge on Goku. However, Android 18 and her brother proved to be unruly and eventually turned against their creator, with Android 17 ultimately killing Dr. Gero.
+
+Initially an antagonist, Android 18 later undergoes a significant change, marrying Krillin, one of the Z Fighters, and having a daughter named Marron. She eventually becomes an unofficial member of the Z Fighters, fighting alongside them to protect Earth. Android 18 is known for her calm, confident, and sometimes sarcastic personality, and her cybernetic enhancements grant her inexhaustible energy and formidable strength.
