@@ -1,5 +1,6 @@
 import requests
 import os
+from character_mapping import character_mapping
 
 characters = [
     "Son Goku", "Vegeta", "Son Gohan", "Piccolo", "Krillin", "Bulma",
@@ -10,9 +11,6 @@ characters = [
     "Bardock", "Videl", "Goten"
 ]
 
-# Placeholder URLs - REPLACE THESE WITH ACTUAL DIRECT IMAGE URLs
-# You will need to manually find direct PNG image links for each character.
-# Example: "https://example.com/images/son-goku.png"
 image_urls = {
     "Son Goku": "https://dragonball-api.com/characters/goku_normal.webp",
     "Vegeta": "https://dragonball-api.com/characters/vegeta_normal.webp",
@@ -52,9 +50,7 @@ os.makedirs(image_dir, exist_ok=True)
 print("Starting image download...")
 
 for character_name in characters:
-    # Format character name for filename (lowercase, replace spaces with hyphens)
-    filename_name = character_name.lower().replace(" ", "-").replace("(", "").replace(")", "")
-    image_filename = os.path.join(image_dir, f"{filename_name}.webp")
+    image_filename = os.path.join(image_dir, f"{character_mapping.get(character_name, character_name.lower().replace(' ', '-'))}.webp")
     
     image_url = image_urls.get(character_name)
 
