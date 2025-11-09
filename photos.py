@@ -14,36 +14,36 @@ characters = [
 # You will need to manually find direct PNG image links for each character.
 # Example: "https://example.com/images/son-goku.png"
 image_urls = {
-    "Son Goku": "https://i.imgur.com/placeholder_goku.png",
-    "Vegeta": "https://i.imgur.com/placeholder_vegeta.png",
-    "Son Gohan": "https://i.imgur.com/placeholder_gohan.png",
-    "Piccolo": "https://i.imgur.com/placeholder_piccolo.png",
-    "Krillin": "https://i.imgur.com/placeholder_krillin.png",
-    "Bulma": "https://i.imgur.com/placeholder_bulma.png",
-    "Future Trunks": "https://i.imgur.com/placeholder_future_trunks.png",
-    "Frieza": "https://i.imgur.com/placeholder_frieza.png",
-    "Cell": "https://i.imgur.com/placeholder_cell.png",
-    "Majin Buu": "https://i.imgur.com/placeholder_majin_buu.png",
-    "Android 18": "https://i.imgur.com/placeholder_android_18.png",
-    "Android 17": "https://i.imgur.com/placeholder_android_17.png",
-    "Android 16": "https://i.imgur.com/placeholder_android_16.png",
-    "Yamcha": "https://i.imgur.com/placeholder_yamcha.png",
-    "Tien Shinhan": "https://i.imgur.com/placeholder_tien_shinhan.png",
-    "Chiaotzu": "https://i.imgur.com/placeholder_chiaotzu.png",
-    "Master Roshi": "https://i.imgur.com/placeholder_master_roshi.png",
-    "Chi-Chi": "https://i.imgur.com/placeholder_chi_chi.png",
-    "Mr. Satan": "https://i.imgur.com/placeholder_mr_satan.png",
-    "Dende": "https://i.imgur.com/placeholder_dende.png",
-    "Kami": "https://i.imgur.com/placeholder_kami.png",
-    "King Kai": "https://i.imgur.com/placeholder_king_kai.png",
-    "Supreme Kai": "https://i.imgur.com/placeholder_supreme_kai.png",
-    "Raditz": "https://i.imgur.com/placeholder_raditz.png",
-    "Nappa": "https://i.imgur.com/placeholder_nappa.png",
-    "Captain Ginyu": "https://i.imgur.com/placeholder_captain_ginyu.png",
-    "Dr. Gero": "https://i.imgur.com/placeholder_dr_gero.png",
-    "Bardock": "https://i.imgur.com/placeholder_bardock.png",
-    "Videl": "https://i.imgur.com/placeholder_videl.png",
-    "Goten": "https://i.imgur.com/placeholder_goten.png"
+    "Son Goku": "https://dragonball-api.com/characters/goku_normal.webp",
+    "Vegeta": "https://dragonball-api.com/characters/vegeta_normal.webp",
+    "Son Gohan": "https://dragonball-api.com/characters/gohan.webp",
+    "Piccolo": "https://dragonball-api.com/characters/picolo_normal.webp",
+    "Krillin": "https://dragonball-api.com/characters/Krilin_Universo7.webp",
+    "Bulma": "https://dragonball-api.com/characters/bulma.webp",
+    "Future Trunks": "https://dragonball-api.com/characters/Trunks_Buu_Artwork.webp",
+    "Frieza": "https://dragonball-api.com/characters/Freezer.webp",
+    "Cell": "https://dragonball-api.com/characters/celula.webp",
+    "Majin Buu": "https://dragonball-api.com/characters/BuuGordo_Universo7.webp",
+    "Android 18": "https://dragonball-api.com/characters/Androide_18_Artwork.webp",
+    "Android 17": "https://dragonball-api.com/characters/17_Artwork.webp",
+    "Android 16": "https://dragonball-api.com/characters/Androide_16.webp",
+    "Yamcha": "https://dragonball-api.com/characters/Final_Yamcha.webp",
+    "Tien Shinhan": "https://dragonball-api.com/characters/Tenshinhan_Universo7.webp",
+    "Chiaotzu": "",
+    "Master Roshi": "https://dragonball-api.com/characters/roshi.webp",
+    "Chi-Chi": "https://dragonball-api.com/characters/ChiChi_DBS.webp",
+    "Mr. Satan": "https://dragonball-api.com/characters/Mr_Satan_DBSuper.webp",
+    "Dende": "https://dragonball-api.com/characters/Dende_Artwork.webp",
+    "Kami": "",
+    "King Kai": "https://dragonball-api.com/characters/Kaio_del_Norte.webp",
+    "Supreme Kai": "https://dragonball-api.com/characters/Kaio-shin_del_este_Artwork.webp",
+    "Raditz": "https://dragonball-api.com/characters/Raditz_artwork_Dokkan.webp",
+    "Nappa": "",
+    "Captain Ginyu": "https://dragonball-api.com/characters/ginyu.webp",
+    "Dr. Gero": "https://dragonball-api.com/characters/Dr._Gero nadroide 20.webp",
+    "Bardock": "https://dragonball-api.com/characters/Bardock_Artwork.webp",
+    "Videl": "",
+    "Goten": ""
 }
 
 image_dir = "images"
@@ -54,7 +54,7 @@ print("Starting image download...")
 for character_name in characters:
     # Format character name for filename (lowercase, replace spaces with hyphens)
     filename_name = character_name.lower().replace(" ", "-").replace("(", "").replace(")", "")
-    image_filename = os.path.join(image_dir, f"{filename_name}.png")
+    image_filename = os.path.join(image_dir, f"{filename_name}.webp")
     
     image_url = image_urls.get(character_name)
 
@@ -79,4 +79,4 @@ for character_name in characters:
 
 print("Image download process completed.")
 
-print("\nIMPORTANT: The image URLs in photos.py are placeholders. You need to manually find direct PNG image links for each character and update the 'image_urls' dictionary in 'photos.py' before running the script to download actual images.")
+
